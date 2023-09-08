@@ -1,5 +1,6 @@
 ## Descripcion 
-El objetivo de los ejercicios es integrar modelos de árboles de decisión en un caso donde la frontera de decisión es compleja.
+El objetivo de los trabajo es integrar modelos de árboles de decisión en un caso donde la frontera de decisión es compleja.
+
 * 1- Genero un dataset sintético más o menos complicado (pero en pocas dimensiones).
 * 2- Entreno un DecisionTreeClassifier con estos datos, usando como hiperparámetros valores elegidos a mano.
 * 3- Evaluo el resultado con validación cruzada, usando como métrica la exactitud (accuracy).
